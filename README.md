@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Richard+Brito)](https://git.io/typing-svg)
+<h1>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Richard+Brito)](https://git.io/typing-svg)</h1>
 
 <h3 align="center">A passionate frontend developer from Miami, FL</h3>
 
