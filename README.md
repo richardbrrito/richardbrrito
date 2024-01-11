@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/richardbrrito/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href=>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 <h1>More about me...</h1>
 <p>I'm Richard Brito, a 20-year-old student from Miami, FL, currently pursuing a Bachelor of Arts in Computer Science at Florida International University (FIU). I'm fluent in both English and Spanish, and I'm passionate about programming and problem-solving.
 
