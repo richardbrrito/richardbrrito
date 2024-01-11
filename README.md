@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <h1>More about me...</h1>
-<h3 align="left" style="text-decoration: underline;">I'm a passionate student from Miami, FL</h3>
+<p>I'm a passionate student from Miami, FL. I am currently attending Florida International University.</p>
 <h1>My Skills</h1>
 
 
