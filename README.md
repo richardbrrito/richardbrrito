@@ -1,6 +1,6 @@
 <h1>Hello! 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=My+name+is+Richard+Brito;I'm+an+undergraduate+student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=false&width=435&lines=My+name+is+Richard+Brito;I'm+an+undergraduate+student" alt="Typing SVG" /></a>
 <div id="badges">
   <a href="https://www.linkedin.com/in/richardbrrito/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
