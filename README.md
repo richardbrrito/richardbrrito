@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F3BF7&background=7F87FF00&random=false&width=435&lines=Hello!+My+name+is+Richard+Brito)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate frontend developer from Miami, FL</h3>
+<h3 align="left">I'm a passionate student from Miami, FL</h3>
 
 - 🌱 I’m currently learning **Backend, Data Structures & Algorithms**
 
