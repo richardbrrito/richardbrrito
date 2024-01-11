@@ -6,7 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <h1>More about me...</h1>
-<p>I'm a passionate student from Miami, FL. I am currently attending Florida International University.</p>
+<p>I'm Richard Brito, a 20-year-old student from Miami, FL, currently pursuing a Bachelor of Arts in Computer Science at Florida International University (FIU). I'm fluent in both English and Spanish, and I'm passionate about programming and problem-solving.
+
+My passion lies in creating efficient and user-friendly software solutions. I am committed to continuous learning and staying updated with the latest developments in the tech industry. I believe in the power of technology to solve problems and improve our lives.
+
+Let's connect and explore potential opportunities. Feel free to reach out if you'd like to connect or discuss anything related to technology or Computer Science.</p>
 <h1>My Skills</h1>
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
