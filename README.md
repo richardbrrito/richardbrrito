@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F3BF7&background=7F87FF00&random=false&width=435&lines=Hello!+My+name+is+Richard+Brito)](https://git.io/typing-svg)
 
 <h3 align="left">I'm a passionate student from Miami, FL</h3>
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - 🌱 I’m currently learning **Backend, Data Structures & Algorithms**
 
