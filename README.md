@@ -1,5 +1,5 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer from Miami, FL</h3>
 
 - 🌱 I’m currently learning **Backend, Data Structures & Algorithms**
