@@ -8,5 +8,7 @@
 <h1>More about me...</h1>
 <p>I'm a passionate student from Miami, FL. I am currently attending Florida International University.</p>
 <h1>My Skills</h1>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
 
 
