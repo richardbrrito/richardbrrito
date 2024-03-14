@@ -9,11 +9,11 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <h1>More about me...</h1>
-<p>I'm Richard Brito, a 21-year-old student from Miami, FL, currently pursuing a Bachelor of Arts in Computer Science at Florida International University (FIU). I'm fluent in both English and Spanish, and I'm passionate about programming and problem-solving.
+<p>Hello! Thank you for viewing my profile. My name is Richard Brito, I'm a 21-year-old student from Miami, FL, currently pursuing a Bachelor of Arts in Computer Science at Florida International University (FIU). I'm fluent in both English and Spanish, and I've always been passionate about programming and problem-solving
 
-My passion lies in creating efficient and user-friendly software solutions. I am committed to continuous learning and staying updated with the latest developments in the tech industry. I believe in the power of technology to solve problems and improve our lives.
+I have experience in programming languages like Java, Python, and C++ as well as web technologies such as React, TypeScript, JavaScript, CSS, and more. My passion lies in creating user-friendly applications that are efficient and well-made.
 
-Let's connect and explore potential opportunities. Feel free to reach out if you'd like to connect or discuss anything related to technology or Computer Science.</p>
+I am committed to continuous learning and staying informed about recent changes in technology and discoveries. If you ever want to chat about it, feel free to reach out.</p>
 <h1>My Skills</h1>
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
