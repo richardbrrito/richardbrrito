@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <h1>More about me...</h1>
-<p>I'm Richard Brito, a 23-year-old student from Miami, FL, currently pursuing a Bachelor of Arts in Computer Science at Florida International University (FIU). I'm fluent in both English and Spanish, and I'm passionate about programming and problem-solving.
+<p>I'm Richard Brito, a 23 year old from Miami, FL, currently pursuing a Bachelor of Arts in Computer Science at Florida International University (FIU). I'm fluent in both English and Spanish, and I'm passionate about programming and problem-solving.
 
 My passion lies in creating efficient and user-friendly software solutions. I am committed to continuous learning and staying updated with the latest developments in the tech industry. I believe in the power of technology to solve problems and improve our lives.
 
@@ -18,8 +18,7 @@ Let's connect and explore potential opportunities. Feel free to reach out if you
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
-
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
